@@ -1,4 +1,4 @@
-FROM rpungello/laravel-sail:8.2
+FROM rpungello/laravel-sail:8.0
 
 LABEL maintainer="Rob Pungello"
 
